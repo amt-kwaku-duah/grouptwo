@@ -19,5 +19,6 @@ iv) ask a peer to review and merge
 v) commits should follow the conventions e.g update: updated the login component, fix: fixed the colors on the student dashboard
 
 *** Collaborative work ***
+May it be well with us
 
 
