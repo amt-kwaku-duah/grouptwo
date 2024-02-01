@@ -18,4 +18,6 @@ iii) ensure it is working locally before commits
 iv) ask a peer to review and merge
 v) commits should follow the conventions e.g update: updated the login component, fix: fixed the colors on the student dashboard
 
+*** Collaborative work ***
+
 
